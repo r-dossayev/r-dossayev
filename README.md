@@ -59,7 +59,7 @@
 
   ### Education
 
-  - **Narxoz University** — Digital Engineering (in progress)
+  - **Narxoz University** — Digital Engineering (2021-2025)
 
   ### Coursera certificates (PDF)
 
