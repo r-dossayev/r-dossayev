@@ -1,98 +1,114 @@
-<h2> Hi there, I'm Rysbek Dossayev! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+## Rysbek Dossayev (he/him)
 
-<h3 align="left">I'm a Full Stack Developer with a passion for building dynamic and efficient web
-solutions <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+**Full‑stack web & mobile developer (4+ years)** — Laravel + Vue/Nuxt/Next, Flutter.  
+I build reliable products end‑to‑end: backend APIs, modern frontends, mobile apps, deployments, and integrations.
 
-- 💗 Currently studying Digital Engineering.
+[![GitHub](https://img.shields.io/badge/GitHub-r--dossayev-181717?logo=github&logoColor=white)](https://github.com/r-dossayev)
+[![Website](https://img.shields.io/badge/Website-kaz--ai.com-0B7285?logo=google-chrome&logoColor=white)](https://kaz-ai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rysbek%20Dossayev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rysbek-dossayev-580033257)
+[![Telegram](https://img.shields.io/badge/Telegram-@r__dossayev-26A5E4?logo=telegram&logoColor=white)](https://t.me/r_dossayev)
+[![Email](https://img.shields.io/badge/Email-dosaev.rysbek5%40gmai.com-8B0000?logo=gmail&logoColor=white)](mailto:dosaev.rysbek5@gmai.com)
 
-- 🌱 I’ve been working as a Full Stack Developer for 3 years.
+**WhatsApp**: `+77053779188`
 
-- 💻 I’m skilled in Laravel, Django, SpringBoot, ExpressJS, NodeJS, Linux, ReactJs, AngularJs, Lumen, Figma, NextJS,
-  Apache2, Nginx, Mysql, PostgreSQL, SEO, Git, jQuery.
+---
 
-- 🖥️ Programming Languages I use: PHP, JavaScript, Java, Python, C++, TypeScript.
+### Language
 
-<br/>  
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=r-dossayev" alt="r-dossayev" />
-<img src="https://wakatime.com/badge/user/2b7f1103-4a86-4ff2-a29a-35149552af7c.svg" alt="Code Time" />
-<img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Code Style" />
-<img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" alt="open source"/>
-</p>
+- [English](#english)
+- [Русский](#русский)
+- [Қазақша](#қазақша)
 
-## 🥰 Feel Free to Contact Me!
+---
 
-<div align="center">
-<a href="https://github.com/r-dossayev"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-<a href="https://kz.linkedin.com/in/rysbek-dossayev-580033257?trk=people_directory"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<a href="https://t.me/r_dossayev"><img alt="Telegram" width="10%" style="padding:5px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/telegram-white-icon.png"/></a>
-<a href="mailto:dosaev.rysbek5@gmai.com"><img alt="Gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/></a>
-</div>
+## English
 
-<br/>  
+### CEO / Hiring summary
 
-## 🔥 Streak Stats
+- **Role**: Full‑stack (Laravel + Vue/Nuxt/Next) & Mobile (Flutter) developer.
+- **Value**: Fast delivery with maintainable architecture, clean APIs, and stable releases.
+- **What I ship**: Admin panels, client apps, REST/JSON APIs, integrations, auth/roles, payments, CI/CD basics.
+- **Strengths**: Linux mindset, pragmatic engineering, ownership from idea → production.
 
-|                                                                                                           Stats                                                                                                           |                                                     Streak                                                      |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
-| <a href="https://github.com/r-dossayev"><img alt="r-dossayev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=r-dossayev&show_icons=true&count_private=true&show_owner=true" height="190px"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-dossayev&show_owner=true" alt="r-dossayev"/> |
+### Focus areas
 
-<br/>  
+- **Backend**: Laravel (PHP), Django (Python), REST APIs, auth/roles, queues/jobs, caching
+- **Frontend**: Vue.js, Nuxt.js, Next.js, TypeScript, SSR, SEO
+- **Mobile**: Flutter (Dart), Ionic
+- **Infra / Ops**: Linux, Nginx/Apache, Docker basics, Git
+- **Networking**: Cisco fundamentals
 
-## 🛠️ Programming Languages and Tools
+### Education
 
-<table><tr><td valign="top" width="33%">
+- **Narxoz University** — Digital Engineering (in progress)
 
-### Frontend
+### Coursera certificates (PDF)
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-</div>
+- [App Design and Development for iOS](files/Coursera%20App%20Design%20and%20Development%20for%20iOS.pdf)
+- [Cybersecurity](files/Coursera%20Cybersecurity.pdf)
+- [iOS App Development](files/Coursera%20iOS%20App%20Development.pdf)
+- [Project Management](files/Coursera%20Project%20Management.pdf)
+- [Swift Programming](files/Coursera%20Swift%20Programming.pdf)
 
-</td><td valign="top" width="33%">
+---
 
-### Backend
+## Русский
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-</div>
+### Резюме для CEO / руководителя
 
-</td><td valign="top" width="33%">
+- **Профиль**: Full‑stack разработчик (Laravel + Vue/Nuxt/Next) и mobile (Flutter).
+- **Опыт**: 4+ года в вебе и мобильной разработке.
+- **Результат**: быстро довожу фичи до продакшена, держу качество кода и стабильность релизов.
+- **Делаю под ключ**: API, админ‑панели, клиентские приложения, интеграции, авторизация/роли, базовый CI/CD.
 
-### Others
+### Ключевые навыки
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache.png" alt="Apache" height="50" />  
-</div>
+- **Backend**: Laravel, Django, проектирование API, безопасность на базовом/среднем уровне
+- **Frontend**: Vue.js, Nuxt.js, Next.js, TypeScript, SSR/SEO
+- **Mobile**: Flutter, Ionic
+- **DevOps**: Linux, Nginx/Apache, Git, Docker (base)
+- **Сети**: основы Cisco networking
 
-</td></tr></table>  
+### Образование
 
-<br/>  
+- **Университет Нархоз (Narxoz University)** — Digital Engineering (в процессе)
 
-## Thanks for visiting!
+### Сертификаты Coursera (PDF)
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/r-dossayev/count.svg">
+- [App Design and Development for iOS](files/Coursera%20App%20Design%20and%20Development%20for%20iOS.pdf)
+- [Cybersecurity](files/Coursera%20Cybersecurity.pdf)
+- [iOS App Development](files/Coursera%20iOS%20App%20Development.pdf)
+- [Project Management](files/Coursera%20Project%20Management.pdf)
+- [Swift Programming](files/Coursera%20Swift%20Programming.pdf)
 
-Counting of visitors to this page in this section started from SEP 27, 2024
+---
 
-<a href="https://info.flagcounter.com/e4C0"><img src="https://s11.flagcounter.com/count2/e4C0/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</p>
+## Қазақша
+
+### CEO / басшыға қысқаша
+
+- **Мамандық**: Full‑stack (Laravel + Vue/Nuxt/Next) және mobile (Flutter) әзірлеуші.
+- **Тәжірибе**: 4+ жыл веб және мобильді әзірлеу.
+- **Нәтиже**: фичаларды продакшнға тез әрі сапалы шығару, тұрақты релиз және таза архитектура.
+- **Жасаймын**: API, админ‑панель, клиенттік қосымша, интеграциялар, авторизация/рольдер, базалық CI/CD.
+
+### Дағдылар
+
+- **Backend**: Laravel, Django, REST API
+- **Frontend**: Vue.js, Nuxt.js, Next.js, TypeScript, SSR/SEO
+- **Mobile**: Flutter, Ionic
+- **Infra**: Linux, Nginx/Apache, Git, Docker (base)
+- **Желі**: Cisco негіздері
+
+### Білім
+
+- **Narxoz University (Нархоз университеті)** — Digital Engineering (оқып жүрмін)
+
+### Coursera сертификаттары (PDF)
+
+- [App Design and Development for iOS](files/Coursera%20App%20Design%20and%20Development%20for%20iOS.pdf)
+- [Cybersecurity](files/Coursera%20Cybersecurity.pdf)
+- [iOS App Development](files/Coursera%20iOS%20App%20Development.pdf)
+- [Project Management](files/Coursera%20Project%20Management.pdf)
+- [Swift Programming](files/Coursera%20Swift%20Programming.pdf)
+
